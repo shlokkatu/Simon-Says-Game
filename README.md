@@ -9,7 +9,7 @@ Welcome to the Simon Says Game! This project is a simple memory game implemented
 2. Open the project directory:
      simon-says-game
 3. Open index.html in your preferred web browser.
-      file:///C:/Simon%20Says%20Game/index.html
+  
 ## Usage
 Simply follow the prompts to play the game. Click on the colored buttons in the order shown by the game
 
