@@ -1,16 +1,41 @@
-#Simon Says Game 
-Welcome to the Simon Says Game! This project is a simple memory game implemented using JavaScript, HTML, and CSS. 
+🎮 Simon Says Game
 
-# Description In this Simon Says Game, the player needs to replicate a sequence of colors and sounds. Each round, a new color is added to the sequence, and the player must repeat it correctly to progress to the next round.
+A fun and interactive memory game built with HTML, CSS, and JavaScript. Inspired by the classic "Simon Says" game, this project challenges players to remember and repeat an ever-growing sequence of colors.
 
 
-Preview
-![image alt](https://github.com/shlokkatu/Simon-Says-Game/blob/efdf2c7c402564238c4dca9fa3b74b51f9e18834/Screenshot%20Simon.png)
+✨ Features
+- Dynamic color sequence generation
+- Audio feedback for each button
+- Increasing difficulty with each level
+- Game over alert and restart option
+- Responsive design for desktop and mobile
 
-# Installation To get a local copy up and running, follow these steps: 
-1. Clone the repository:
-     git clone https://github.com/your-shlokkatu/simon-Says-Game.git
-2. Open the project directory:
-     simon-says-game
-3. Open index.html in your preferred web browser.
   
+📸 Preview
+![image alt]()
+
+
+🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+  
+🚀 How to Play
+- Open the game in your browser
+- Watch the sequence of colors
+- Repeat the sequence by clicking the buttons in the same order
+- Each correct round adds a new color to the sequence
+- Make a mistake and the game resets!
+
+  
+📦 Installation
+To run locally:
+git clone https://github.com/your-username/simon-says-game.git
+Then open index.html in your browser.
+
+
+✍️ Author
+Created by Shlok — learning JavaScript one game at a time!
+Feel free to explore, fork, or suggest improvements.
+
